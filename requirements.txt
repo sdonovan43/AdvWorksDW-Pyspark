@@ -1,0 +1,8 @@
+# Data Engineering Dependencies
+pandas>=1.5.0
+pyarrow>=10.0.0
+duckdb>=0.7.0
+sqlalchemy>=1.4.0
+pyodbc>=4.0.0
+openpyxl>=3.0.0
+numpy>=1.21.0
